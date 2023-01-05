@@ -1,0 +1,73 @@
+html{
+    background-color: rgb(3, 3, 34);
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1{
+    
+    font-size:40px;
+}
+.one{
+    text-align: center;
+    margin-top:40px;
+    margin-bottom: 50px;
+
+}
+.one p{
+    margin-top:40px;
+}
+.two{
+    margin-left:400px;
+    border-bottom: 40px;}
+    
+.six,textarea{
+    width:700px;
+    background-color: rgb(29, 27, 27);
+    border-style: none;
+    color:white;
+    
+}
+.six{
+    height:30px;
+}
+.three{
+    margin-top: 60px;
+    margin-bottom: 60px;
+   
+    
+}
+.three input{
+    margin-bottom: 20px;
+}
+span{
+    margin:0px 20px;
+}
+.four{
+    border:6px;
+}
+select{
+    width:700px;
+    height: 30px;
+}
+textarea{
+   
+    height: 50px;
+    
+}
+.five{
+ background-color: rgb(56, 55, 55);
+ text-align: center;
+ width:350px;
+ height:50px;
+ font-size: large;
+ color: white;
+ border:solid;
+ margin:50px 200px;
+
+}
+.eight{
+    border-bottom: 4px solid white;
+}
+
+
